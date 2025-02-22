@@ -24,7 +24,7 @@ The dataset consists of real and forged signatures
 ## Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/signature-verification.git
+git clone https://github.com/KhaledBadr07/signature-verification.git
 
 ```
 
